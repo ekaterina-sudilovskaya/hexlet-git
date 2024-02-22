@@ -1,2 +1,1 @@
-Hello, Hexlet!
-I love programming so much!
+Hello, Hexlet! How are you?
