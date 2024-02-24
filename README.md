@@ -1,1 +1,1 @@
-Hello, Hexlet! How are you?
+Vitya pidoras
